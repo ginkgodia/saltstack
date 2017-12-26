@@ -1,0 +1,7 @@
+[DEFAULT]
+ignoreip = 116.255.143.220
+bantime = 86400
+maxretry = 9
+findtime = 1200
+
+

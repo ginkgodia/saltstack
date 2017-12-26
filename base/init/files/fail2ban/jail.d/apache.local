@@ -1,0 +1,6 @@
+[apache-badbots]
+enabled = true
+port = 8080
+filter = apache-badbots
+logpath = /var/log/httpd/access_log
+maxretry = 5
